@@ -1,0 +1,13 @@
+#BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I STRICTLY ADHERED TO THE TENURES OF
+#THE OHIO STATE UNIVERSITY’S ACADEMIC INTEGRITY POLICY. THIS IS THE README FILE FOR LAB
+#6.
+
+Name: Aaditya Gupta
+
+Total Time: 8 hours
+
+Short description: The lab was mostly fine besides this one bug where create_key would create the correct 8-bit key and then the 8-bit key would go to 0, in scanf. This took me way too long to fix, and it was a really simple fix.
+
+GDB: I used GDB to trace the value of key throughout the program and find out where it was going to 0.
+
+I jumped back to lab2, to understand the logic behind bit roatation.
